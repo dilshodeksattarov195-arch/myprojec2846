@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvpdate",
+        "uuid": 26129126,
+        "checksum": "y0m9o"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
